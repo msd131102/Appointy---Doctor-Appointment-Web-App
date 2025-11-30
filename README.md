@@ -149,6 +149,8 @@ npm run dev
 - **URL**: https://appointy-doctor-appointment-web-app.onrender.com
 - **Features**: Book appointments, browse doctors, manage profile
 - **Test Credentials**: Use any email to register or try existing users
+- Email: user1@example.com
+- Password: user1234
 
 **👨‍💼 Admin Dashboard**
 - **URL**: https://appointy-doctor-appointment-web-app-admin.onrender.com
@@ -632,3 +634,4 @@ Your application will be live at:
 ---
 
 **⚠️ Security Note**: Never commit real API keys or sensitive data to version control. Always use environment variables for production deployments.
+
