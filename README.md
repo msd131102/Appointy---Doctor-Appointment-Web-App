@@ -1,3 +1,34 @@
+# 🎯 Modex Assessment - Appointy Doctor Booking System
+
+> **📊 Assessment Scale**: 2,500 candidates | **⏱️ Duration**: Self-paced | **🎯 Goal**: Stand out from the crowd
+
+---
+
+## 🌟 Introduction
+
+Welcome to the Modex Assessment for the Appointy Doctor Appointment Booking System. This is a production-ready, full-stack MERN application that serves as the foundation for your technical evaluation.
+
+**💡 Important Note**: We understand that many candidates will rely on AI tools during this assessment. However, this is your opportunity to demonstrate genuine expertise, creativity, and problem-solving skills that go beyond automated solutions.
+
+---
+
+## 🎯 Assessment Objectives
+
+### 🚀 What We're Looking For
+
+1. **Technical Excellence**: Deep understanding of MERN stack architecture
+2. **Problem-Solving**: Ability to identify and resolve complex issues
+3. **Code Quality**: Clean, maintainable, and well-documented code
+4. **Innovation**: Creative solutions and feature enhancements
+5. **Best Practices**: Security, performance, and scalability considerations
+
+### 🏆 How to Stand Out
+
+- **Don't just fix bugs** - improve the overall architecture
+- **Don't just add features** - explain the business value
+- **Don't just use AI** - demonstrate genuine understanding
+- **Don't just complete tasks** - document your thought process
+
 # 🏥 Appointy - Complete Doctor Appointment Booking System
 
 A full-stack MERN application for booking doctor appointments with separate interfaces for patients, doctors, and administrators.
@@ -634,4 +665,5 @@ Your application will be live at:
 ---
 
 **⚠️ Security Note**: Never commit real API keys or sensitive data to version control. Always use environment variables for production deployments.
+
 
